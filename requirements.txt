@@ -1,0 +1,5 @@
+bcrypt==5.0.0
+cffi==2.0.0
+cryptography==46.0.5
+pwinput==1.0.3
+pycparser==3.0
